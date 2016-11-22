@@ -1,0 +1,166 @@
+*{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+body {
+    margin:0;
+    background: #F5F5F5;
+}
+
+#icono{
+    float:left;
+    margin-left: 10%;
+}
+
+.header {
+    height: 5%;
+    background: #673AB7;
+    font-style: normal;
+    font-size: 22px;
+    color:cornsilk;   
+}
+
+.header div{
+    display: inline-block;
+}
+
+.fecha{
+    margin-left: 10%;
+}
+
+.fecha p{
+    display: inline-block;
+}
+
+.reloj{
+    margin-right: 10%;
+    float:right;
+}
+
+.reloj p{
+    display: inline-block;
+}
+
+.center-up div{
+    display: inline-block;
+}
+
+.center-up-left div{
+    display: block;
+}
+
+.line-up {
+    display: inline-block;
+}
+
+.icono{
+    margin-left: 5%;
+}
+
+.line-down div{
+    display: inline-block;
+}
+
+.texteratura div{
+    display: block;
+}
+
+.temperatura {
+    color:black;
+    font-size: 35px;
+}
+
+.texto{
+    margin-top: -5%;
+    color:dodgerblue;
+    font-size: 24px;   
+}
+
+.informacion{
+    margin-left: 2%;
+    border-left-width: thin;
+    border-left-style: solid;
+    border-left-color: dimgray;
+}
+
+.informacion-parada{
+    width:120%;
+    margin-left: 10%;
+    font-size: 30px;
+    color: black;
+}
+
+.separador{
+    margin-top: -7%;
+    width:230%;
+}
+
+.sep2{
+    margin-top: 2%;
+    width:94%;
+    color: blue;
+}
+
+.info-abajo{
+    width:130%;
+    margin-top: -5%;
+    margin-left: 10%;
+    font-size: 15px;
+    color:firebrick;    
+}
+
+.parrafo{
+    font-style: bold;
+    font-size: 20px;
+    color:black;
+}
+
+.php{
+    font-size: 18px;
+    padding-top: -20%;
+}
+
+.php-TRAFICO{
+    font-size: 18px;
+    color: forestgreen;
+}
+
+.recorridos{
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+
+.titulo-recorrido{
+    margin-top: -3.5%;
+    font-size: 34px;
+    color:black; 
+}
+
+.lista{
+    font-size: 18px;
+    margin-top: -25%;
+}
+
+.lista div{
+    display: inline-block;
+    margin-top:22%;
+}
+
+.b{
+    margin-left: 13%;
+}
+
+.c{
+    margin-left: 13%;
+}
+
+.d{
+    margin-left: 13%;
+}
+.e{
+    margin-left: 13%;
+}
+.f{
+    margin-left: 13%;
+}
